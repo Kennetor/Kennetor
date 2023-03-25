@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kenneth</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennetor&label=Profile%20views&color=0e75b6&style=flat" alt="kennetor" /> </p>
+
 
 - 🔭 At the moment, I am striving to advance my abilities through the course of my internship.
 
