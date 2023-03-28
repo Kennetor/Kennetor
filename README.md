@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋 I'm Kenneth</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
-
-- 🌱 I’m currently learning more about **React**
-
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
